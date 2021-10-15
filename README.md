@@ -1,4 +1,4 @@
-# Warrior Runner
+# Warrior Run
 ---
 ### How to play
 * Use the arrow keys to move around ◀🔼▶🔽
