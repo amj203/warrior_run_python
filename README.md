@@ -1,11 +1,11 @@
 # Warrior Runner
 
 ### How to play
-* Use arrow keys to move around
+* Use arrow keys to move around 🔽➡⬅🔼
 * Avoid flying obstacles
-* Arrive to the shield to win
+* Reach to the **shield to win
 
 ### Cheat keys
 * Space to freeze warrior
-* 's' key to freeze the axe
-* 'd' key to freeze the kunai
+* 's' key to freeze the **axe
+* 'd' key to freeze the **kunai
