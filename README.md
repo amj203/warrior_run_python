@@ -1,7 +1,7 @@
 # Warrior Runner
 
 How to play
-* Use arrow keys to move arround
+* Use arrow keys to move around
 * Avoid flying obstacles
 * Arrive to the shield to win
 
