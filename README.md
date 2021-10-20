@@ -1,6 +1,6 @@
 # Warrior Run
 ---
-![warrior run](https://github.com/amj203/warrior_run/blob/master/WR.png?raw=true)
+![warrior run](https://github.com/amj203/warrior_run_python/blob/master/WR.png?raw=true)
 ---
 ### How to play
 * Use the arrow keys to move around ◀🔼▶🔽
