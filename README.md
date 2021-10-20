@@ -1,5 +1,7 @@
 # Warrior Run
 ---
+![warrior run](https://github.com/amj203/warrior_run/blob/master/WR.png?raw=true)
+---
 ### How to play
 * Use the arrow keys to move around ◀🔼▶🔽
 * Avoid flying obstacles
